@@ -1,0 +1,12 @@
+{
+"name": “EEPROM_Anything”,
+"frameworks": "Arduino",
+"keywords": "EEPROM_writeAnything, EEPROM_readAnything",
+"description": “EEPROM library to write / read anything”,
+"authors":
+[
+{
+        "name": “Chris Creel”
+}
+}
+
